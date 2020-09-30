@@ -226,7 +226,7 @@
         grid-template-columns: 1fr;
         grid-template-rows: auto;
         grid-template-areas:
-/*            "heading"*/
+            "heading"
             "big-name"
             "data"
             "card-params"
